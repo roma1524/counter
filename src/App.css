@@ -1,5 +1,15 @@
 .App {
-  text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+
+    padding: 50px;
+
+    border-radius: 10px;
+    border: 1px solid red;
+
+    background: linear-gradient(10.00deg, rgba(241, 183, 109, 0.4), rgba(237, 133, 244, 0.4) 100%);
 }
 
 

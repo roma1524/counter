@@ -1,5 +1,13 @@
 .setting-of-counter {
-    width: 100%;
-    height: 500px;
-    background-color: #76d872;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 500px;
+    min-height: 300px;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    background: linear-gradient(40.00deg, rgba(0, 245, 160, 0.2),rgba(0, 217, 245, 0.2) 100%);
+;
 }
